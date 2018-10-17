@@ -26,15 +26,16 @@ public class GazeGestureManager : MonoBehaviour
         recognizer = new GestureRecognizer();
         recognizer.Tapped += (args) =>
         {
-            model1.SetActive(!model1.activeSelf);
-            model2.SetActive(!model2.activeSelf);
-
-            audioSource.Play();
+            
 
             // Send an OnSelect message to the focused object and its ancestors.
             if (FocusedObject != null)
             {
                 FocusedObject.SendMessageUpwards("OnSelect", SendMessageOptions.DontRequireReceiver);
+                model1.SetActive(!model1.activeSelf);
+                model2.SetActive(!model2.activeSelf);
+
+                audioSource.Play();
             }
         };
         recognizer.StartCapturingGestures();
@@ -43,7 +44,7 @@ public class GazeGestureManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*
+        
         // Figure out which hologram is focused this frame.
         GameObject oldFocusObject = FocusedObject;
 
@@ -70,6 +71,6 @@ public class GazeGestureManager : MonoBehaviour
         {
             recognizer.CancelGestures();
             recognizer.StartCapturingGestures();
-        }*/
+        }
     }
 }

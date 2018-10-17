@@ -1,1 +1,1 @@
-C:\Users\sashafr\Documents\MuseumMR\App\MuseumMR\MuseumMR.csproj;x86
+C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\MuseumMR.csproj;x86

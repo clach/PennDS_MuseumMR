@@ -15887,12 +15887,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\sashafr\\Documents\\MuseumMR\\App\\MuseumMR\\MuseumMR.csproj",
+      "projectUniqueName": "C:\\Users\\sashafr\\Documents\\PennDS_MuseumMR\\MuseumMR\\App\\MuseumMR\\MuseumMR.csproj",
       "projectName": "MuseumMR",
-      "projectPath": "C:\\Users\\sashafr\\Documents\\MuseumMR\\App\\MuseumMR\\MuseumMR.csproj",
-      "projectJsonPath": "C:\\Users\\sashafr\\Documents\\MuseumMR\\App\\MuseumMR\\project.json",
+      "projectPath": "C:\\Users\\sashafr\\Documents\\PennDS_MuseumMR\\MuseumMR\\App\\MuseumMR\\MuseumMR.csproj",
+      "projectJsonPath": "C:\\Users\\sashafr\\Documents\\PennDS_MuseumMR\\MuseumMR\\App\\MuseumMR\\project.json",
       "packagesPath": "C:\\Users\\sashafr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sashafr\\Documents\\MuseumMR\\App\\MuseumMR\\obj\\",
+      "outputPath": "C:\\Users\\sashafr\\Documents\\PennDS_MuseumMR\\MuseumMR\\App\\MuseumMR\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\sashafr\\AppData\\Roaming\\NuGet\\NuGet.Config",

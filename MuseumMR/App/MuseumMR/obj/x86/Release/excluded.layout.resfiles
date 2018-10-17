@@ -11,5 +11,6 @@ Data\Resources\unity default resources
 Data\Resources\unity_builtin_extra
 Data\sharedassets0.assets
 Data\sharedassets0.assets.resS
+Data\sharedassets0.resource
 Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat
 Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml
