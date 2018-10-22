@@ -8,9 +8,6 @@ public class GazeGestureManager : MonoBehaviour
     // Represents the hologram that is currently being gazed at.
     public GameObject FocusedObject { get; private set; }
 
-    public GameObject model1;
-    public GameObject model2;
-
     private AudioSource audioSource;
 
     GestureRecognizer recognizer;
@@ -26,16 +23,12 @@ public class GazeGestureManager : MonoBehaviour
         recognizer = new GestureRecognizer();
         recognizer.Tapped += (args) =>
         {
-            audioSource.Play();
+            audioSource.Play(); // play sound when user taps
 
             // Send an OnSelect message to the focused object and its ancestors.
             if (FocusedObject != null)
             {
-                Debug.Log("FOCUSED OBJECT = " + FocusedObject.name.ToString());
                 FocusedObject.SendMessageUpwards("OnSelect", SendMessageOptions.DontRequireReceiver);
-                Debug.Log("SENDING MESSAGE UPWARDS!!");
-                //model1.SetActive(!model1.activeSelf);
-                //model2.SetActive(!model2.activeSelf);
             }
         };
         recognizer.StartCapturingGestures();
