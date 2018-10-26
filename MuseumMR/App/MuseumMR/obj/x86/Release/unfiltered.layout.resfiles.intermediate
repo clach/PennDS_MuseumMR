@@ -21,8 +21,14 @@ Data\Resources\unity_builtin_extra
 Data\sharedassets0.assets
 Data\sharedassets0.assets.resS
 Data\sharedassets0.resource
+Data\StreamingAssets\Vuforia\2.dat
+Data\StreamingAssets\Vuforia\2.xml
+Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat
+Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml
 Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat
 Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml
+Data\StreamingAssets\Vuforia\test.dat
+Data\StreamingAssets\Vuforia\test.xml
 GpuTiming.dll
 GpuTiming.pdb
 HolographicStreamerDesktop.dll

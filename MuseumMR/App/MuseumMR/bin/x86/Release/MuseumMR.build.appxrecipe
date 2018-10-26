@@ -376,8 +376,17 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\2.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\test.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\test.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -476,8 +485,17 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\2.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\2.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\test.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\test.dat</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
