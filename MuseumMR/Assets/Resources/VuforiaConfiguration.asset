@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AQ0v5RD/////AAABmVJZGJM1CEOmrrbhI0tTidNISATfKR9hj8g0BRgj+a5RlVOF/rMW0CdQKJRRKGb6Iek2QhzTVawFxicJfr3Xq1NqEY4T1udR2iJIj+h7tktYFH7dyYTa6NMBGjl1xCrSnNNVwD8tsGyhyHJTVJP7VaQhJxcT0Y4VZrMGaySXbT6UQyOHEJetW0cdNQKgG9/EzFg+ZD3hiLqvcqDBwjY/g96ugnAqFPH8loaAEPB9a/iFmD8WfIzHh2eNbXyMHwl8coz/OmMUn8jjGYXXk8XHKc5+Kh72m6s40J8sZHU2KZTSvsnbdSCXqn3mcCNpV9GecN9xpaZgpTO3J/U92VQowI8wC15Iawzdw6vImLXyMjkL
+    vuforiaLicenseKey: AVe5Vqf/////AAABmVuvP5Fk5E+ll9Chy4dykHhAwzsNYr/ysh2dJB/dFxuWJOFK4P7X32JVtczyxfa7NFeQzslUv6iT6QnbFiGnUdy7iyE/soSfUJxo+riuV5uNx/dI624kxPQIavFlkHDiiCOkjT53FTkwhHAOMJI0itYC+R+ivlDQLPqJqhJ/8L9lEql353S8Qs/I5yGy0k0pPzIgwkSE7p7xVdBW9YNYvvnNaNWF6a6r5UkKUHQg8mIlUjG3VmNUD5i0ADM7BkFucgCTK26iNrruMautBfpQQXV2dK3CYi9UzVEQ8tt2ezfkuEGeYti+qXr+1v8b6x3VJ7yfnM8TiQexvJavIPLpDmsA2otjL0/mQjIm4X2XHJ+F
     ufoLicenseKey: QVg4NmFoZi8vLy8vQUFBQUtFUkVUNzV3S1VWOGkzRkdjOHJWaVU4QzNhN0wyU0l4aVMxN3QrSytVbTRPd1gvcmlZeFNTZ3pvODltKzJQVUtnZXBYQ0dCU0hPSndNS3owYTZVa1ZIUUd0Y3dRaGc3R1g2TDhaZFZaNUlCUEpPVWRLd1M0Vi9XcEgxYU0zWlpJTU5wZW1KN3pTY1dTWVh2K1dyYnlhN3VZVnZweUI0QmdEYWtickFUUlFxcDdTenRZVkZHTmlrVVlldlFmSVhLbEpPYzBJaHBOaG11WDdjeDdrdkwvZmZTc2JjT1I1ZjlrOVZzQTQ0bnBQeUdUT3dTMDk0UU1JRXIxZk9tWnZ4OCtVTGRtVzhrVkR2Q2ZDbEFjdzdlOG41dnVrN1FQakg5TndoWnA0TWtMUVg4UVM3TS91SS91VXhGOVlNRWk3ZDg5OHQyZ25FTGdRejVlOEZmY2l3a2VoZGZWWi8rTzVMcTg4STdlRHc3bmN0UEU=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
@@ -46,10 +46,10 @@ MonoBehaviour:
   videoBackground:
     clippingMode: 0
     numDivisions: 2
-    videoBackgroundShader: {fileID: 15311, guid: 0000000000000000f000000000000000,
-      type: 0}
+    videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
+      type: 3}
     matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
-    videoBackgroundEnabled: 1
+    videoBackgroundEnabled: 0
   deviceTracker:
     autoInitTracker: 1
     autoStartTracker: 1
@@ -58,7 +58,7 @@ MonoBehaviour:
     modelCorrectionMode: 0
     modelTransformEnabled: 0
     modelTransform: {x: 0, y: 0.1, z: -0.1}
-    fusionMode: 5
+    fusionMode: 7
   smartTerrain:
     autoInitTracker: 0
     autoStartTracker: 0

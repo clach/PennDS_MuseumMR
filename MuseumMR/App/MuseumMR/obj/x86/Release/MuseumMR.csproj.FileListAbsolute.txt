@@ -644,3 +644,6 @@ C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\obj\x86\Release
 C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\obj\x86\Release\qualifiers.txt.intermediate
 C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
 C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\VuforiaScripts.dll
+C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\VuforiaScripts.pdb
+C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\Core\ForBundle\AppxManifest.xml

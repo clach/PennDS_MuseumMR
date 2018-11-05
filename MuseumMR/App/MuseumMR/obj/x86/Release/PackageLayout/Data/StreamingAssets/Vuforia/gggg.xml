@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="gggg"/>
+</Tracking>
+
+<Assembly name="ggggs_assembly">
+<Part name="gggg" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.585436 0.982741 35.0005" rotation="AD: 0.9997657509373306 0.0768257592725911 0.3036359382764533 152.852">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

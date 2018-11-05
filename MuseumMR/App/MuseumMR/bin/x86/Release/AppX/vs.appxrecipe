@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>73B723DC0BB5CADA275D7988FA914119B4C3F6500CDA27FA838F107F8F05B44B</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>E70F0EAF1521257C54291AA0668799CCE7C4E78E5825335E2A3AA2D3B909BA2D</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>Template3D_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>Template3D_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>Template3D</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-26T17:45:09.929</Modified>
+      <Modified>2018-11-05T18:17:00.609</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\MuseumMR.exe">
       <PackagePath>entrypoint\MuseumMR.exe</PackagePath>
-      <Modified>2018-10-26T17:44:54.242</Modified>
+      <Modified>2018-11-05T18:16:45.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -465,39 +465,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineProxy.dll">
       <PackagePath>UnityEngineProxy.dll</PackagePath>
-      <Modified>2018-09-28T10:17:38.000</Modified>
+      <Modified>2018-09-20T10:50:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\WinRTBridge.dll">
       <PackagePath>WinRTBridge.dll</PackagePath>
-      <Modified>2018-09-28T10:17:42.000</Modified>
+      <Modified>2018-09-20T10:50:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Unprocessed\WinRTLegacy.dll">
       <PackagePath>WinRTLegacy.dll</PackagePath>
-      <Modified>2018-09-28T10:21:48.000</Modified>
+      <Modified>2018-09-20T10:55:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.dll">
       <PackagePath>UnityPlayer.dll</PackagePath>
-      <Modified>2018-09-28T10:17:40.000</Modified>
+      <Modified>2018-09-20T10:50:18.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.dll">
       <PackagePath>BridgeInterface.dll</PackagePath>
-      <Modified>2018-09-28T10:17:36.000</Modified>
+      <Modified>2018-09-20T10:50:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\BridgeInterface.winmd">
       <PackagePath>BridgeInterface.winmd</PackagePath>
-      <Modified>2018-09-28T10:17:50.000</Modified>
+      <Modified>2018-09-20T10:50:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
-      <Modified>2018-09-28T10:17:50.000</Modified>
+      <Modified>2018-09-20T10:50:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-10-26T17:44:32.395</Modified>
+      <Modified>2018-11-05T18:15:53.372</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2018-10-26T17:44:20.973</Modified>
+      <Modified>2018-11-05T18:15:42.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -510,6 +510,10 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml</PackagePath>
       <Modified>2018-10-26T17:08:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\gggg.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\gggg.xml</PackagePath>
+      <Modified>2018-10-31T16:34:23.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml</PackagePath>
@@ -584,67 +588,67 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\HolographicStreamerDesktop.dll">
       <PackagePath>HolographicStreamerDesktop.dll</PackagePath>
-      <Modified>2018-09-28T07:46:44.000</Modified>
+      <Modified>2018-09-20T10:22:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Release\UnityEngineDelegates.dll">
       <PackagePath>UnityEngineDelegates.dll</PackagePath>
-      <Modified>2018-09-28T10:17:38.000</Modified>
+      <Modified>2018-09-20T10:50:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-10-26T17:44:20.129</Modified>
+      <Modified>2018-11-05T18:15:41.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-10-26T17:44:19.129</Modified>
+      <Modified>2018-11-05T18:15:40.484</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-10-26T17:44:16.789</Modified>
+      <Modified>2018-11-05T18:15:38.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
-      <Modified>2018-09-28T09:27:18.000</Modified>
+      <Modified>2018-09-20T09:55:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-10-26T17:44:20.125</Modified>
+      <Modified>2018-11-05T18:15:41.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-10-26T17:44:19.223</Modified>
+      <Modified>2018-11-05T18:15:40.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-10-26T17:44:19.778</Modified>
+      <Modified>2018-11-05T18:15:41.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-10-26T17:44:19.934</Modified>
+      <Modified>2018-11-05T18:15:41.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-10-26T17:44:16.787</Modified>
+      <Modified>2018-11-05T18:15:38.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-10-26T17:44:19.778</Modified>
+      <Modified>2018-11-05T18:15:41.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-10-26T17:44:19.928</Modified>
+      <Modified>2018-11-05T18:15:41.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-10-26T17:44:32.246</Modified>
+      <Modified>2018-11-05T18:15:53.184</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-10-26T17:44:32.247</Modified>
+      <Modified>2018-11-05T18:15:53.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2018-10-26T17:44:19.939</Modified>
+      <Modified>2018-11-05T18:15:41.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\2.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\2.dat</PackagePath>
@@ -653,6 +657,10 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat</PackagePath>
       <Modified>2018-10-26T17:08:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\gggg.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\gggg.dat</PackagePath>
+      <Modified>2018-10-31T16:34:23.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat</PackagePath>
@@ -669,263 +677,267 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-17T16:26:15.203</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TextRenderingModule.dll">
-      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.782</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainPhysicsModule.dll">
-      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.785</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainModule.dll">
-      <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.794</Modified>
+      <Modified>2018-11-05T18:10:38.464</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.803</Modified>
+      <Modified>2018-11-05T18:16:58.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIElementsModule.dll">
-      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.896</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TextRenderingModule.dll">
+      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SubstanceModule.dll">
-      <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.900</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.904</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SharedInternalsModule.dll">
-      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.910</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.914</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StyleSheetsModule.dll">
-      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.921</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StreamingModule.dll">
-      <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.924</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainPhysicsModule.dll">
+      <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.929</Modified>
+      <Modified>2018-11-05T18:16:58.145</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VRModule.dll">
-      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.953</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIElementsModule.dll">
+      <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.231</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VideoModule.dll">
-      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.959</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainModule.dll">
+      <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.239</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.963</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.970</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteMaskModule.dll">
+      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.247</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.XRModule.dll">
-      <PackagePath>UnityEngine.XRModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.978</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SubstanceModule.dll">
+      <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.251</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.983</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StyleSheetsModule.dll">
+      <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.257</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityConnectModule.dll">
-      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.987</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:07.993</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StreamingModule.dll">
+      <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.010</Modified>
+      <Modified>2018-11-05T18:16:58.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.WindModule.dll">
+      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VRModule.dll">
+      <PackagePath>UnityEngine.VRModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VideoModule.dll">
+      <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.XRModule.dll">
+      <PackagePath>UnityEngine.XRModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\VuforiaScripts.dll">
+      <PackagePath>VuforiaScripts.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.014</Modified>
+      <Modified>2018-11-05T18:16:58.330</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestTextureModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.019</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityConnectModule.dll">
+      <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.334</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.028</Modified>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.032</Modified>
+      <Modified>2018-11-05T18:16:58.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestWWWModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestTextureModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SharedInternalsModule.dll">
+      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
+      <Modified>2018-11-05T18:16:58.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.043</Modified>
+      <Modified>2018-11-05T18:16:58.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.048</Modified>
+      <Modified>2018-11-05T18:16:58.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.055</Modified>
+      <Modified>2018-11-05T18:16:58.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.065</Modified>
+      <Modified>2018-11-05T18:16:58.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.069</Modified>
+      <Modified>2018-11-05T18:16:58.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.072</Modified>
+      <Modified>2018-11-05T18:16:58.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.398</Modified>
+      <Modified>2018-11-05T18:16:58.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.421</Modified>
+      <Modified>2018-11-05T18:16:58.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.687</Modified>
+      <Modified>2018-11-05T18:16:58.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.696</Modified>
+      <Modified>2018-11-05T18:16:58.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.699</Modified>
+      <Modified>2018-11-05T18:16:58.994</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-10-26T17:44:23.946</Modified>
+      <Modified>2018-11-05T18:15:45.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.727</Modified>
+      <Modified>2018-11-05T18:16:59.019</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.731</Modified>
+      <Modified>2018-11-05T18:16:59.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.734</Modified>
+      <Modified>2018-11-05T18:16:59.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.738</Modified>
+      <Modified>2018-11-05T18:16:59.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.750</Modified>
+      <Modified>2018-11-05T18:16:59.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.765</Modified>
+      <Modified>2018-11-05T18:16:59.054</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.LocalizationModule.dll">
       <PackagePath>UnityEngine.LocalizationModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.768</Modified>
+      <Modified>2018-11-05T18:16:59.057</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.772</Modified>
+      <Modified>2018-11-05T18:16:59.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.779</Modified>
+      <Modified>2018-11-05T18:16:59.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.782</Modified>
+      <Modified>2018-11-05T18:16:59.070</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.786</Modified>
+      <Modified>2018-11-05T18:16:59.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.790</Modified>
+      <Modified>2018-11-05T18:16:59.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.816</Modified>
+      <Modified>2018-11-05T18:16:59.106</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.856</Modified>
+      <Modified>2018-11-05T18:16:59.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.888</Modified>
+      <Modified>2018-11-05T18:16:59.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.920</Modified>
+      <Modified>2018-11-05T18:16:59.207</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.985</Modified>
+      <Modified>2018-11-05T18:16:59.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-10-26T17:45:08.990</Modified>
+      <Modified>2018-11-05T18:16:59.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\TextMeshPro-2017.3-Runtime.dll">
       <PackagePath>TextMeshPro-2017.3-Runtime.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.020</Modified>
+      <Modified>2018-11-05T18:16:59.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.029</Modified>
+      <Modified>2018-11-05T18:16:59.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.039</Modified>
+      <Modified>2018-11-05T18:16:59.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.073</Modified>
+      <Modified>2018-11-05T18:16:59.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.082</Modified>
+      <Modified>2018-11-05T18:16:59.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.127</Modified>
+      <Modified>2018-11-05T18:16:59.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.147</Modified>
+      <Modified>2018-11-05T18:16:59.840</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TestRunner.dll">
       <PackagePath>UnityEngine.TestRunner.dll</PackagePath>
-      <Modified>2018-10-26T17:45:09.174</Modified>
+      <Modified>2018-11-05T18:16:59.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\bin\x86\Release\Core\MuseumMR.exe">
       <PackagePath>MuseumMR.exe</PackagePath>
-      <Modified>2018-10-26T17:45:09.919</Modified>
+      <Modified>2018-11-05T18:17:00.599</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

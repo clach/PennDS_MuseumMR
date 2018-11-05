@@ -382,6 +382,9 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\gggg.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\gggg.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.xml</PackagePath>
     </AppxPackagedFile>
@@ -491,6 +494,9 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\AntefixHeadOnlyModelTarget.dat</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\gggg.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\gggg.dat</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat</PackagePath>
     </AppxPackagedFile>
@@ -504,32 +510,32 @@
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TilemapModule.dll">
+      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainModule.dll">
-      <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TilemapModule.dll">
-      <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIModule.dll">
+      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SubstanceModule.dll">
-      <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.TerrainModule.dll">
+      <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SharedInternalsModule.dll">
-      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SubstanceModule.dll">
+      <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
@@ -537,8 +543,11 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.StreamingModule.dll">
       <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UIModule.dll">
-      <PackagePath>UnityEngine.UIModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UNETModule.dll">
+      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.WindModule.dll">
+      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
@@ -546,17 +555,17 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.WindModule.dll">
-      <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestWWWModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\VuforiaScripts.dll">
+      <PackagePath>VuforiaScripts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAssetBundleModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
@@ -564,11 +573,11 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UNETModule.dll">
-      <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAudioModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAssetBundleModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestWWWModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
@@ -576,8 +585,8 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.SharedInternalsModule.dll">
+      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumMR\App\MuseumMR\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
