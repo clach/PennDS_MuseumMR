@@ -1,0 +1,1 @@
+C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\MuseumHoloLens.csproj;x86

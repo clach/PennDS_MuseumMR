@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="MuseumHoloLens"/>
+</Tracking>
+
+<Assembly name="MuseumHoloLenss_assembly">
+<Part name="MuseumHoloLens" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00771232 0.00454836 0.545623" rotation="AD: 0.9999376313192879 0.05259314762074665 0.22352402855962847 154.168">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
