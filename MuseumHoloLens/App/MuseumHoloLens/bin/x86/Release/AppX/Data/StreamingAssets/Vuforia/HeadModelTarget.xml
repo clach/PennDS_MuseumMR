@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="HeadModelTarget"/>
+</Tracking>
+
+<Assembly name="HeadModelTargets_assembly">
+<Part name="HeadModelTarget" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00137546 0.00436963 0.613446" rotation="AD: 0.9999935764866706 0.03268496290199861 0.1147691860711979 148.42">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

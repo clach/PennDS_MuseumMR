@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-19T17:41:57.829</Modified>
+      <Modified>2018-11-19T18:37:17.923</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\bin\x86\Release\MuseumHoloLens.exe">
       <PackagePath>entrypoint\MuseumHoloLens.exe</PackagePath>
-      <Modified>2018-11-19T17:41:42.080</Modified>
+      <Modified>2018-11-19T18:37:01.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -493,15 +493,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2018-11-19T17:39:46.103</Modified>
+      <Modified>2018-11-19T18:36:23.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2018-11-19T17:39:35.299</Modified>
+      <Modified>2018-11-19T18:36:11.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-09-19T12:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HeadModelTarget.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\HeadModelTarget.xml</PackagePath>
+      <Modified>2018-11-19T18:20:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\MuseumHoloLens.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumHoloLens.xml</PackagePath>
@@ -584,15 +588,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2018-11-19T17:39:34.764</Modified>
+      <Modified>2018-11-19T18:36:10.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2018-11-19T17:39:33.499</Modified>
+      <Modified>2018-11-19T18:36:09.337</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2018-11-19T17:39:31.251</Modified>
+      <Modified>2018-11-19T18:36:06.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -600,43 +604,47 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2018-11-19T17:39:34.761</Modified>
+      <Modified>2018-11-19T18:36:10.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2018-11-19T17:39:33.636</Modified>
+      <Modified>2018-11-19T18:36:09.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2018-11-19T17:39:33.952</Modified>
+      <Modified>2018-11-19T18:36:09.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2018-11-19T17:39:34.556</Modified>
+      <Modified>2018-11-19T18:36:10.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2018-11-19T17:39:31.248</Modified>
+      <Modified>2018-11-19T18:36:06.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2018-11-19T17:39:33.951</Modified>
+      <Modified>2018-11-19T18:36:09.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2018-11-19T17:39:34.470</Modified>
+      <Modified>2018-11-19T18:36:10.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2018-11-19T17:39:45.906</Modified>
+      <Modified>2018-11-19T18:36:22.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2018-11-19T17:39:45.908</Modified>
+      <Modified>2018-11-19T18:36:22.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
-      <Modified>2018-11-19T17:39:34.565</Modified>
+      <Modified>2018-11-19T18:36:10.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HeadModelTarget.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\HeadModelTarget.dat</PackagePath>
+      <Modified>2018-11-19T18:20:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\MuseumHoloLens.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumHoloLens.dat</PackagePath>
@@ -657,259 +665,259 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.763</Modified>
+      <Modified>2018-11-19T18:37:15.662</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.766</Modified>
+      <Modified>2018-11-19T18:37:15.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.774</Modified>
+      <Modified>2018-11-19T18:37:15.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.783</Modified>
+      <Modified>2018-11-19T18:37:15.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.867</Modified>
+      <Modified>2018-11-19T18:37:15.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.SubstanceModule.dll">
       <PackagePath>UnityEngine.SubstanceModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.872</Modified>
+      <Modified>2018-11-19T18:37:15.804</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.876</Modified>
+      <Modified>2018-11-19T18:37:15.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.882</Modified>
+      <Modified>2018-11-19T18:37:15.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.886</Modified>
+      <Modified>2018-11-19T18:37:15.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.892</Modified>
+      <Modified>2018-11-19T18:37:15.827</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.StreamingModule.dll">
       <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.895</Modified>
+      <Modified>2018-11-19T18:37:15.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.901</Modified>
+      <Modified>2018-11-19T18:37:15.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.923</Modified>
+      <Modified>2018-11-19T18:37:15.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.929</Modified>
+      <Modified>2018-11-19T18:37:15.870</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.932</Modified>
+      <Modified>2018-11-19T18:37:15.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.935</Modified>
+      <Modified>2018-11-19T18:37:15.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.948</Modified>
+      <Modified>2018-11-19T18:37:15.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.952</Modified>
+      <Modified>2018-11-19T18:37:15.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.955</Modified>
+      <Modified>2018-11-19T18:37:15.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.961</Modified>
+      <Modified>2018-11-19T18:37:15.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.974</Modified>
+      <Modified>2018-11-19T18:37:15.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.978</Modified>
+      <Modified>2018-11-19T18:37:15.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.981</Modified>
+      <Modified>2018-11-19T18:37:15.934</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.990</Modified>
+      <Modified>2018-11-19T18:37:15.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:55.993</Modified>
+      <Modified>2018-11-19T18:37:15.948</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.005</Modified>
+      <Modified>2018-11-19T18:37:15.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.010</Modified>
+      <Modified>2018-11-19T18:37:15.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.016</Modified>
+      <Modified>2018-11-19T18:37:15.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.020</Modified>
+      <Modified>2018-11-19T18:37:15.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.024</Modified>
+      <Modified>2018-11-19T18:37:15.987</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.027</Modified>
+      <Modified>2018-11-19T18:37:15.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.338</Modified>
+      <Modified>2018-11-19T18:37:16.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.362</Modified>
+      <Modified>2018-11-19T18:37:16.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.586</Modified>
+      <Modified>2018-11-19T18:37:16.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Unity.TextMeshPro.dll">
       <PackagePath>Unity.TextMeshPro.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.644</Modified>
+      <Modified>2018-11-19T18:37:16.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.656</Modified>
+      <Modified>2018-11-19T18:37:16.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.660</Modified>
+      <Modified>2018-11-19T18:37:16.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2018-11-19T17:39:38.271</Modified>
+      <Modified>2018-11-19T18:36:14.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.682</Modified>
+      <Modified>2018-11-19T18:37:16.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.686</Modified>
+      <Modified>2018-11-19T18:37:16.739</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.689</Modified>
+      <Modified>2018-11-19T18:37:16.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.692</Modified>
+      <Modified>2018-11-19T18:37:16.747</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.704</Modified>
+      <Modified>2018-11-19T18:37:16.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.721</Modified>
+      <Modified>2018-11-19T18:37:16.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.LocalizationModule.dll">
       <PackagePath>UnityEngine.LocalizationModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.725</Modified>
+      <Modified>2018-11-19T18:37:16.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.728</Modified>
+      <Modified>2018-11-19T18:37:16.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.735</Modified>
+      <Modified>2018-11-19T18:37:16.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.739</Modified>
+      <Modified>2018-11-19T18:37:16.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.742</Modified>
+      <Modified>2018-11-19T18:37:16.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.746</Modified>
+      <Modified>2018-11-19T18:37:16.809</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.771</Modified>
+      <Modified>2018-11-19T18:37:16.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.813</Modified>
+      <Modified>2018-11-19T18:37:16.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.841</Modified>
+      <Modified>2018-11-19T18:37:16.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.875</Modified>
+      <Modified>2018-11-19T18:37:16.964</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.940</Modified>
+      <Modified>2018-11-19T18:37:17.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.SpatialTracking.dll">
       <PackagePath>UnityEngine.SpatialTracking.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.945</Modified>
+      <Modified>2018-11-19T18:37:17.042</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.952</Modified>
+      <Modified>2018-11-19T18:37:17.051</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.962</Modified>
+      <Modified>2018-11-19T18:37:17.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Vuforia.UnityExtensions.dll">
       <PackagePath>Vuforia.UnityExtensions.dll</PackagePath>
-      <Modified>2018-11-19T17:41:56.998</Modified>
+      <Modified>2018-11-19T18:37:17.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.StandardEvents.dll">
       <PackagePath>UnityEngine.StandardEvents.dll</PackagePath>
-      <Modified>2018-11-19T17:41:57.006</Modified>
+      <Modified>2018-11-19T18:37:17.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2018-11-19T17:41:57.049</Modified>
+      <Modified>2018-11-19T18:37:17.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\GLTFSerializationUWP.dll">
       <PackagePath>GLTFSerializationUWP.dll</PackagePath>
-      <Modified>2018-11-19T17:41:57.068</Modified>
+      <Modified>2018-11-19T18:37:17.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\UnityEngine.TestRunner.dll">
       <PackagePath>UnityEngine.TestRunner.dll</PackagePath>
-      <Modified>2018-11-19T17:41:57.092</Modified>
+      <Modified>2018-11-19T18:37:17.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\bin\x86\Release\Core\MuseumHoloLens.exe">
       <PackagePath>MuseumHoloLens.exe</PackagePath>
-      <Modified>2018-11-19T17:41:57.819</Modified>
+      <Modified>2018-11-19T18:37:17.917</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
