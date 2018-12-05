@@ -21,8 +21,12 @@ Data\Resources\unity_builtin_extra
 Data\sharedassets0.assets
 Data\sharedassets0.assets.resS
 Data\sharedassets0.resource
+Data\StreamingAssets\Vuforia\bowlAntefixTwo.dat
+Data\StreamingAssets\Vuforia\bowlAntefixTwo.xml
 Data\StreamingAssets\Vuforia\HeadModelTarget.dat
 Data\StreamingAssets\Vuforia\HeadModelTarget.xml
+Data\StreamingAssets\Vuforia\HighPolyAntefixInches.dat
+Data\StreamingAssets\Vuforia\HighPolyAntefixInches.xml
 Data\StreamingAssets\Vuforia\MuseumHoloLens.dat
 Data\StreamingAssets\Vuforia\MuseumHoloLens.xml
 Data\StreamingAssets\Vuforia\MuseumMRDatabase.dat

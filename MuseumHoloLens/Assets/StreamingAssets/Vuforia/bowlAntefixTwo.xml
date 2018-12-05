@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="bowlAntefixTwo"/>
+</Tracking>
+
+<Assembly name="bowlAntefixTwos_assembly">
+<Part name="bowlAntefixTwo" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0226689 0.0521655 1.44122" rotation="AD: 0.9999999981206558 -0.0021098844037827323 -0.029145992373385072 171.723">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

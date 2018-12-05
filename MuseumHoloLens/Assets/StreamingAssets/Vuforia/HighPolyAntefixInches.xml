@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="HighPolyAntefixInches"/>
+</Tracking>
+
+<Assembly name="HighPolyAntefixInchess_assembly">
+<Part name="HighPolyAntefixInches" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00837159 0.0658863 1.20887" rotation="AD: 0.9999999996078465 0.0028479928301074907 0.010209383371238669 148.828">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

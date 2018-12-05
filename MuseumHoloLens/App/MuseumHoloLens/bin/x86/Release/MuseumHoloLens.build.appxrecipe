@@ -376,8 +376,14 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\bowlAntefixTwo.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\bowlAntefixTwo.xml</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HeadModelTarget.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\HeadModelTarget.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HighPolyAntefixInches.xml">
+      <PackagePath>Data\StreamingAssets\Vuforia\HighPolyAntefixInches.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\MuseumHoloLens.xml">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumHoloLens.xml</PackagePath>
@@ -482,8 +488,14 @@
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\sharedassets0.resource">
       <PackagePath>Data\sharedassets0.resource</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\bowlAntefixTwo.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\bowlAntefixTwo.dat</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HeadModelTarget.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\HeadModelTarget.dat</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\HighPolyAntefixInches.dat">
+      <PackagePath>Data\StreamingAssets\Vuforia\HighPolyAntefixInches.dat</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sashafr\Documents\PennDS_MuseumMR\MuseumHoloLens\App\MuseumHoloLens\Data\StreamingAssets\Vuforia\MuseumHoloLens.dat">
       <PackagePath>Data\StreamingAssets\Vuforia\MuseumHoloLens.dat</PackagePath>
